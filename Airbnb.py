@@ -53,7 +53,7 @@ if select == "Home":
 
 if select == "Data Analysis":
     st.title("DATA ANALYSIS")
-    st.header("Amenities Analysis")
+    st.header("Availability Analysis")
     availability_analysis(availability_df)
 
 if select == "Insights":
